@@ -1,0 +1,117 @@
+body{
+    margin: 0;
+    font-family: 'Fira Sans', sans-serif;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Nunito', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Mono', monospace;
+font-family: 'Rubik', sans-serif;
+}
+.orange{
+    color: #FB934A;
+}
+.btm{
+    margin-bottom: 200px;
+}
+h1{
+    font-size: 50px;
+    color: #575757;
+    font-weight: 500;
+    
+}
+.left-side p{
+    color: #5d5b5b;
+}
+ .btn{
+    text-decoration: none;
+    background-image:linear-gradient(#FB8D47,#FD5633) ;
+    color: white;
+    padding: 15px 30px;
+   margin-top: 25px;
+    border-radius: 30px;
+    display: inline-block;
+}
+.order{
+    display: flex;
+    padding-left: 7%;  
+}
+.left-side{
+    width: 50%;
+    margin-top: 5%;
+}
+.right-side img{
+    width: 80%;
+}
+.about-me{
+    display: flex;
+    padding-left: 5%;
+    background-image: url(eat-healthy-main/images/shapes/7.png);
+    background-position: center;
+}
+.female{
+    width: 50%;
+    padding-left: 10%;
+} 
+.female img{
+    width: 55%;  
+}
+.right-content{
+    width: 32%;
+    margin-top: 5%;
+}
+.right-content p{
+    line-height: 25px;
+}
+.align-content{
+    text-align: center;
+    margin-bottom: 40px;
+}
+.align-content h2{
+    color: #575757;
+    font-size: 35px;
+}
+.flex-item{
+    display: flex;
+}
+.title{
+    margin-left: 7%;
+    box-shadow: 5px 10px 8px 10px #888888;
+    padding: 25px;
+    border-radius: 20px;
+}
+
+title h2{
+    font-weight: 700;
+}
+.title img{
+    width: 500px;
+}
+.number{
+    width: 30%;
+    text-align: center;
+  
+}
+.number h2{
+    font-size: 40px;
+    margin: 0;
+    
+}
+.subscribers{
+    padding-left: 10%;
+    margin-bottom: 150px;
+}
+footer{
+    background-color: black;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 90px;
+}
+footer h2{
+    color: #5B5B5B;
+    font-weight: 400;
+    font-size: 30px;
+}
+footer p{
+    color: #91B7D0;
+}
